@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'webadm'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_870419b1e72a4690bc2665ba1d6e05b1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3d3a6c0cd51342b6b98277e2af35c7a7 }}
         package: .
